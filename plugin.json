@@ -7,8 +7,8 @@
       {
         "name": "STV",
         "author": "TNT",
-        "path": "https://raw.githubusercontent.com/nhocconsr/vbook-ext/master/stvlimit/plugin.zip",
-        "version": 9,
+        "path": "https://github.com/nhattientran/json",
+        "version": ,
         "source": "https://sangtacviet.pro",
         "icon": "https://raw.githubusercontent.com/nhocconsr/vbook-ext/master/stvlimit/icon.png",
         "description": "Đọc truyện trên trang sangtacviet.pro",
